@@ -1,0 +1,24 @@
+{
+  "stocks": [
+    {
+      "id": 1,
+      "stockCode": "IBM",
+      "name": "International Business Machine"
+    },
+    {
+      "name": "bla",
+      "stockCode": "bla bla",
+      "id": 2
+    },
+    {
+      "name": "adasdsada",
+      "stockCode": "adsadasd",
+      "id": 3
+    },
+    {
+      "name": "adasd",
+      "stockCode": "adasd",
+      "id": 4
+    }
+  ]
+}
